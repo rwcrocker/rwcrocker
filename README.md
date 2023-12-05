@@ -1,7 +1,6 @@
 ## Hello, I'm Reed!
 
 - :dna: Biologist, researcher, data scientist, analyst, and R enthusiast.
-- :test_tube: I am currently investigating the role of lipid mediators in acute inflammation at single-cell resolution. 
 - :speech_balloon: I’m always excited to talk about biology, programming, and data science!  
 - 📬 How to find me: 
   - 📧 E-mail: ![Alt text](/email_image.png?raw=true "Title")
