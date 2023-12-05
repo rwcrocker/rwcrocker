@@ -1,6 +1,6 @@
-### Hello, I'm Reed 
+## Hello, I'm Reed!
 
-- :dna: I am a early-career computational biologist with a love for genomics and transcriptomics.
+- :dna: Biologist, researcher, data scientist, analyst, and R enthusiast.
 - :test_tube: I am currently investigating the role of lipid mediators in acute inflammation at single-cell resolution. 
 - :speech_balloon: I’m always excited to talk about biology, programming, and data science!  
 - :mailbox: How to find me: 
