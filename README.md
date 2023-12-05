@@ -6,6 +6,5 @@
 - 📬 How to find me: 
   - 📧 E-mail: ![Alt text](/email_image.png?raw=true "Title")
   - :office: [LinkedIn](https://www.linkedin.com/in/reed-crocker-86b1b913a/)
-  - :lab_coat: [Lab Page](https://projects.iq.harvard.edu/hlalab/lab-members)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rwcrocker)](https://github.com/rwcrocker/github-readme-stats)
